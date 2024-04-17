@@ -16,7 +16,7 @@
     "@emotion/styled": "^11.10.5",
     "@mui/icons-material": "^5.10.9",
     "@mui/lab": "^5.0.0-alpha.106",
-    "@mui/material": "^5.10.12",
+    "@mui/material": "^5.15.14",
     "@mui/system": "^5.10.12",
     "@reduxjs/toolkit": "^1.9.0",
     "@taquito/beacon-wallet": "^14.0.0",
